@@ -59,4 +59,4 @@ FULL WAVE RECTIFIER WITHOUT FILTER:
 
 
 ## RESULT:
-The simulation was done in LT Spice and the output waveform is obtained .
+<img width="1187" height="405" alt="image" src="https://github.com/user-attachments/assets/1837ab5d-17a5-4669-bec0-cdf32d592d73" />
